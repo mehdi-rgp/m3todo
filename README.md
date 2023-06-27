@@ -1,5 +1,5 @@
 # Simple Todo Application
-#### Video Demo: [CS50’s Introduction to Programming with Python - Final Project](https://youtu.be/LywEvRG5Lwg)
+#### Video Demo: [CS50’s Introduction to Programming with Python - Final Project](https://youtu.be/Ixq3d5N1Rew)
 #### Description:
 This is a simple todo application which runs inside the terminal.
 The application can save the todo in a csv file.
